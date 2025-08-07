@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Lincoln Olivares </h1>
 
-<!--
-**Lincoln-barnesz/Lincoln-barnesz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+   · Estudande de TI 
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](profile-3d-contrib/profile-night-view.svg)
+
+---
+
+## Sobre
+
+- Fiz o primeiro Semestre no Senac
+- 
+## Contato
+
+- [Instagram - Lincoln Barnesz](https://www.instagram.com/lincoln_barnesz/profilecard/?igsh=czZ6bXUxb2t1bzR0)
+
+---
+
+> Tamo ai.
